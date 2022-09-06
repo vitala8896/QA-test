@@ -18,7 +18,7 @@
     "url": ""
   },
   "scripts": {
-    "test": "cucumber-js --parallel 1 -f json:report/report.json && node report.js"
+    "test": "cucumber-js --parallel 1 -f json:report.json && node report.js"
   },
   "version": "1.0.0",
   "dependencies": {

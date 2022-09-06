@@ -2,3 +2,5 @@ node_modules/
 report/*
 videos/*
 screenshot/*
+report.json
+cucumber-html-report.html
